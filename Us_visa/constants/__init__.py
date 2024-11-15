@@ -5,8 +5,7 @@ DATABASE_NAME="US_VISA"
 
 COLLECTION_NAME= "visa_da"
 
-MONGODB_URL_KEY="mongodb+srv://subiljacob:subiljacob@cluster0.atusd.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
-
+MONGODB_URL_KEY=""
 PIPELINE_NAME:str="usvisa"
 
 ARTIFACT_DIR:str="artifacts"
